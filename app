@@ -1,3 +1,4 @@
+ownerdomain=vikashmandal.com
 lacunads.com, LCb555b3bc8667a09a, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 smartclip.net, 15458, RESELLER
