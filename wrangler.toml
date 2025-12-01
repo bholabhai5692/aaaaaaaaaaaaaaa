@@ -1,0 +1,6 @@
+name = "frog"
+main = "worker.js"
+compatibility_date = "2025-12-01"
+
+# Optional: agar tum custom domain ya routes use karna chahte ho
+# routes = ["example.com/*"]
